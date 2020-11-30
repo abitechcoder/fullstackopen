@@ -1,2 +1,2 @@
 # fullstackopen
-My submission repository for Fullstackopen
+My submission repository for Fullstackopen2020
